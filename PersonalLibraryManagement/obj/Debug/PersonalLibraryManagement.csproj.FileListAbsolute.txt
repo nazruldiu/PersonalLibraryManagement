@@ -1,0 +1,5 @@
+E:\Dot Net Projects\PersonalLibraryManagement\PersonalLibraryManagement\bin\PersonalLibraryManagement.dll
+E:\Dot Net Projects\PersonalLibraryManagement\PersonalLibraryManagement\bin\PersonalLibraryManagement.pdb
+E:\Dot Net Projects\PersonalLibraryManagement\PersonalLibraryManagement\obj\Debug\PersonalLibraryManagement.csprojResolveAssemblyReference.cache
+E:\Dot Net Projects\PersonalLibraryManagement\PersonalLibraryManagement\obj\Debug\PersonalLibraryManagement.dll
+E:\Dot Net Projects\PersonalLibraryManagement\PersonalLibraryManagement\obj\Debug\PersonalLibraryManagement.pdb
